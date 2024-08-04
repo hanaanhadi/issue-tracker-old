@@ -19,7 +19,19 @@
     "postcss": "8.4.40",
     "react": "18.3.1",
     "react-dom": "18.3.1",
+    "react-icons": "^5.2.1",
     "tailwindcss": "3.4.7",
     "typescript": "5.5.4"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "issue-tracker"
+  },
+  "keywords": [
+    "tracker"
+  ],
+  "author": "hanaan",
+  "license": "ISC"
 }
